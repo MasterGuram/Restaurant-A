@@ -217,13 +217,8 @@ body.nav-active { overflow: hidden; }
   100% { background-position: 0%; }
 }
 
-/*-----------------------------------*\
-  #TOPBAR
-\*-----------------------------------*/
-
-
-
-
+/* TOPBAR */
+.topbar{display: none;}
 
 /*-----------------------------------*\
   #HEADER

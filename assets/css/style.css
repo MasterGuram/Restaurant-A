@@ -344,6 +344,7 @@ body.nav-active { overflow: hidden; }
   max-width: max-content;
   z-index: -1;
 }
+.w-100{width: 100%;}
 
 /* PRELOADER */
 .preload{

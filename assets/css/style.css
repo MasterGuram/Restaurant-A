@@ -909,9 +909,10 @@ textarea.input-field{
   background-position: top left;
 }
 
-/*-----------------------------------*\
-  #FEATURES
-\*-----------------------------------*/
+/* FEATURES */
+.features {
+  margin-top: 250px; /* Adjust this value as needed */
+}
 
 
 

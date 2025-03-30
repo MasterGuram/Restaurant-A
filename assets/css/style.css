@@ -1195,5 +1195,5 @@ textarea.input-field{
   .reservation .input-wrapper:nth-child(4){
     grid-template-columns: repeat(3, 1fr);
   }
-  
+  .footer-brand{grid-column: 1 / 3;}
 }
